@@ -16,5 +16,14 @@
     "phone": "(056)-941-8726",
     "password": "enternow",
     "img": "img/womens/1.jpeg"
+  },
+  {
+    "name": "Josephine Day",
+    "email": "josephine.day@example.com",
+    "birthday": "3/3/1990",
+    "address": "384 First Street",
+    "phone": "(864)-445-6613",
+    "password": "898989",
+    "img": "img/womens/2.jpeg"
   }
 ]
