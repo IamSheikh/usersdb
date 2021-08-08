@@ -70,5 +70,14 @@
     "phone": "(269)-382-1328",
     "passowrd": "keenan",
     "img": "img/mens/4.jpeg"
+  },
+  {
+    "name": "Christy Owens",
+    "email": "christy.owens@example.com",
+    "birthday": "2/6/1960",
+    "address": "3370 Cackson St",
+    "phone": "(723)-475-0307",
+    "password": "trample",
+    "img": "img/womens/5.jpeg"
   }
 ]
