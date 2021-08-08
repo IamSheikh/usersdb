@@ -43,5 +43,14 @@
     "phone": "(136)-172-7382",
     "passowrd": "jellybea",
     "img": "img/mens/2.jpeg"
+  },
+  {
+    "name": "Freddie Graham",
+    "email": "freddie.graham@example.com",
+    "birthday": "5/3/1980",
+    "address": "9491 Spring St",
+    "phone": "(211)-694-5783",
+    "password": "donjuan",
+    "img": "img/mens/3.jpeg"
   }
 ]
