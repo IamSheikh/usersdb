@@ -52,5 +52,14 @@
     "phone": "(211)-694-5783",
     "password": "donjuan",
     "img": "img/mens/3.jpeg"
+  },
+  {
+    "name": "Edna Burns",
+    "email": "enda.burns@example.com",
+    "birthday": "5/1/1993",
+    "address": "6846 Country Club St",
+    "phone": "(010)-533-8997",
+    "password": "starligh",
+    "img": "img/womens/4.jpeg"
   }
 ]
