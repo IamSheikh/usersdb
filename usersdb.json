@@ -61,5 +61,14 @@
     "phone": "(010)-533-8997",
     "password": "starligh",
     "img": "img/womens/4.jpeg"
+  },
+  {
+    "name": "Jesus Rivera",
+    "email": "jesus.rivera@example.com",
+    "birthday": "3/4/1988",
+    "address": "7217 Hogan St",
+    "phone": "(269)-382-1328",
+    "passowrd": "keenan",
+    "img": "img/mens/4.jpeg"
   }
 ]
