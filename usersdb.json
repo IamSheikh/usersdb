@@ -7,5 +7,14 @@
     "phone": "(854)-709-1379",
     "password": "uuuuuuu",
     "img": "img/mens/1.jpeg"
+  },
+  {
+    "name": "Lillian Sims",
+    "email": "lillian.sims@example.com",
+    "birthday": "7/6/1972",
+    "address": "2697 Royal Ln",
+    "phone": "(056)-941-8726",
+    "password": "enternow",
+    "img": "img/womens/1.jpeg"
   }
 ]
