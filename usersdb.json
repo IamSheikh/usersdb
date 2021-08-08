@@ -25,5 +25,14 @@
     "phone": "(864)-445-6613",
     "password": "898989",
     "img": "img/womens/2.jpeg"
+  },
+  {
+    "name": "Ruby Kuhn",
+    "email": "ruby.kuhn@example.com",
+    "birthday": "10/1/1954",
+    "address": "4410 Lakeshore Rd",
+    "phone": "(343)-958-3762",
+    "password": "lefty",
+    "img": "img/womens/3.jpeg"
   }
 ]
