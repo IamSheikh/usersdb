@@ -34,5 +34,14 @@
     "phone": "(343)-958-3762",
     "password": "lefty",
     "img": "img/womens/3.jpeg"
+  },
+  {
+    "name": "Same Hicks",
+    "email": "same.hicks@example.com",
+    "birthday": "4/7/1994",
+    "address": "5079 Lovers Ln",
+    "phone": "(136)-172-7382",
+    "passowrd": "jellybea",
+    "img": "img/mens/2.jpeg"
   }
 ]
