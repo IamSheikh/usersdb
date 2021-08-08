@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "Ramon Rose",
+    "email": "ramon.rose@example.com",
+    "birthday": "5/1/1970",
+    "address": "5486 Samaritan Dr",
+    "phone": "(854)-709-1379",
+    "password": "uuuuuuu",
+    "img": "https://randomuser.me/api/portraits/men/32.jpg"
+  }
+]
