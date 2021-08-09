@@ -79,5 +79,14 @@
     "phone": "(723)-475-0307",
     "password": "trample",
     "img": "img/womens/5.jpeg"
+  },
+  {
+    "name": "Gerald Ramos",
+    "email": "gerald.ramos@example.com",
+    "birthday": "6/7/1973",
+    "address": "6191 Mcclellan Rd",
+    "phone": "(256)-020-4374",
+    "password": "dddddddd",
+    "img": "img/mens/5.jpeg"
   }
 ]
