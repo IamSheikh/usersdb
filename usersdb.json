@@ -88,5 +88,14 @@
     "phone": "(256)-020-4374",
     "password": "dddddddd",
     "img": "img/mens/5.jpeg"
+  },
+  {
+    "name": "Gordon Riley",
+    "email": "gordon.riley@example.com",
+    "birthday": "2/7/1974",
+    "address": "3496 Green Rd",
+    "phone": "(261)-518-3881",
+    "password": "barkley",
+    "img": "img/mens/6.jpeg"
   }
 ]
